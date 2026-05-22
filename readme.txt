@@ -6,4 +6,4 @@ this will fix the problem.
 
 so that all. 
 
--Nicolas (Creator of NOCS)
+-Nicolas
